@@ -16,7 +16,7 @@ import com.ibm.mq.pcf.PCFParameter;
 import util.MQObjectConstants.*;
 
 /**
- * @author daji
+ * @author 0xda
  *
  */
 public class DefaultMQObjectManager implements MQObjectManager {
